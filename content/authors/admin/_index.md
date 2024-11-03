@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Yuan Xia is currently pursuing a Ph.D. in Computer Science at the University of Southern California(USC), She specializes in areas of large language models (LLMs), multimodel AI, autonomous driving, distributed systems and software engineering. She leads a student group at CPS-VIDA Lab at USC, which develops LLMs on perception system monitoring, driving event detection and program syntheis.
+Yuan Xia is currently pursuing a Ph.D. in Computer Science at the University of Southern California(USC). She specializes in areas of large language models (LLMs), multimodel AI, autonomous driving, distributed systems and software engineering. She leads a student group at CPS-VIDA Lab at USC, which develops LLMs on perception system monitoring, driving event detection and program syntheis.
