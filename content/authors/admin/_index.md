@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuan Xia is currently pursuing a Ph.D. in Computer Science at the University of Southern California(USC), She specializes in areas of large language models (LLMs), multimodel AI, autonomous driving, distributed systems and software engineering. She leads a student group at CPS-VIDA Lab at USC, which develops LLMs on perception system monitoring, driving event detection and program syntheis.
