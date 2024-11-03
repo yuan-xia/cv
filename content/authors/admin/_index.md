@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 5th Year Ph.D. Student & Research Assistant & Machine Learning Engineer & Researcher
+role: 5th Year Ph.D. Student & Research Assistant & Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'yuanxia@usc.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yuan-xia-0227/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=iJoRPmUAAAAJ&hl=en&citsig=ADIE8slXNs60yLg5ru6Y8hdyNEe_
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Large Language Models
@@ -52,43 +52,44 @@ interests:
   - Software Engineering
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Ph.D. Computer Science
     institution: University of Southern California
     date_start: 2020-05-25
     date_end: 2025-12-15
     summary: |
+      GPA: 3.95/4.0
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: University of California, Irvine
+    date_start: 2016-09-27
+    date_end: 2019-12-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.91/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Machine Learning Engineer & Researcher
+    company_name: Bell Labs, Nokia
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-06-15
     date_end: ''
     summary: |2-
       Responsibilities include:
