@@ -1,15 +1,15 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Algorithm Core Course
+summary: Learn All Essential Algorithms in CS
+date: 2025-01-13
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Algorithm
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-
+<!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -137,4 +137,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

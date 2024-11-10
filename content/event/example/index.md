@@ -1,8 +1,8 @@
 ---
 title: Invited Talk
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Bell Labs Invited Talk
+# event_url: https://example.org
 
 location: Bell Labs & Online
 address:
