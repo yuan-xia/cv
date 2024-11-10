@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: External Advisor
+summary: Carrer and educational advice for students
+date: 2022-09-01
 type: docs
 math: false
 tags:
-  - Python
+  - Advisor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
