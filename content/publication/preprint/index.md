@@ -1,37 +1,42 @@
 ---
-title: "An example preprint / working paper"
+title: "A comprehensive study of autonomous vehicle bugs"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Joshua Garcia
+- Yang Feng
+- Junjie Shen
+- Sumaya Almanee
+- Yuan Xia
+- Qi Alfred Chen
+date: "2020-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Self-driving cars, or Autonomous Vehicles (AVs), are increasingly becoming an integral part of our daily life. About 50 corporations are actively working on AVs, including large companies such as Google, Ford, and Intel. Some AVs are already operating on public roads, with at least one unfortunate fatality recently on record. As a result, understanding bugs in AVs is critical for ensuring their security, safety, robustness, and correctness. While previous studies have focused on a variety of domains (e.g., numerical software; machine learning; and error-handling, concurrency, and performance bugs) to investigate bug characteristics, AVs have not been studied in a similar manner. Recently, two software systems for AVs, Baidu Apollo and Autoware, have emerged as frontrunners in the open-source community and have been used by large companies and governments (e.g., Lincoln, Volvo, Ford, Intel, Hitachi, LG, and the US Department of Transportation). From these two leading AV software systems, this paper describes our investigation of 16,851 commits and 499 AV bugs and introduces our classification of those bugs into 13 root causes, 20 bug symptoms, and 18 categories of software components those bugs often affect. We identify 16 major findings from our study and draw broader lessons from them to guide the research community towards future directions in software bug detection, localization, and repair.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Autonomous Driving
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://dl.acm.org/doi/abs/10.1145/3377811.3380397
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3377811.3380397
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
