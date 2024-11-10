@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a Ph.D. student at USC. I blog about machine learning, generative models, and intelligent systems. 
+        
+        I develop and incorporate advanced Generative Model(LLMs) in the logic reasoning, property learning, motion event summarization for complex intelligent systems. These techniques further aid the system monitoring and anomaly detection process. 
         
         Please reach out to collaborate 😃
     design:
