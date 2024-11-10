@@ -125,11 +125,11 @@ skills:
       - name: Pytorch
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: Large Language Models
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -141,7 +141,7 @@ skills:
       - name: Writing
         description: ''
         percent: 80
-        icon: pen
+        icon: circle-stack
       - name: Photography
         description: ''
         percent: 80
