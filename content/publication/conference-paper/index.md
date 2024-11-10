@@ -1,23 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Data-Driven Template-Free Invariant Generation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Yuan Xia
+  - Jyotirmoy Deshmukh
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-12-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-12-29T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,13 +27,13 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Automatic verification of concurrent programs faces state explosion due to the exponential possible interleavings of its sequential components coupled with large or infinite state spaces. An alternative is deductive verification, where given a candidate invariant, we establish inductive invariance and show that any state satisfying the invariant is also safe. However, learning (inductive) program invariants is difficult. To this end, we propose a data-driven procedure to synthesize program invariants, where it is assumed that the program invariant is an expression that characterizes a (hopefully tight) over-approximation of the reachable program states. The main ideas of our approach are: (1) We treat a candidate invariant as a classifier separating states observed in (sampled) program traces from those speculated to be unreachable. (2) We develop an enumerative, template-free approach to learn such classifiers from positive and negative examples. At its core, our enumerative approach employs decision trees to generate expressions that do not over-fit to the observed states (and thus generalize). (3) We employ a runtime framework to monitor program executions that may refute the candidate invariant; every refutation triggers a revision of the candidate invariant. Our runtime framework can be viewed as an instance of statistical model checking, which gives us probabilistic guarantees on the candidate invariant. We also show that such in some cases, our counterexample-guided inductive synthesis approach converges (in probability) to an overapproximation of the reachable set of states. Our experimental results show that our framework excels in learning useful invariants using only a fraction of the set of reachable states for a wide variety of concurrent programs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Invariant Learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,8 +44,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://arxiv.org/abs/2312.17527'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
