@@ -58,11 +58,11 @@ education:
     date_end: 2025-12-15
     summary: |
       GPA: 3.95/4.0
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on GenAI in System. Supervised by [Prof Jyotirmoy Deshmukh](https://jdeshmukh.github.io/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Computer Science
+  - area: BSc Computer Science & Honors Degree
     institution: University of California, Irvine
     date_start: 2016-09-27
     date_end: 2019-12-15
@@ -70,9 +70,14 @@ education:
       GPA: 3.91/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning, Deep Learning, Intro to AI
+      - Natural Language processing
+      - Computer Networks
+      - Probabilistic Deterministic Graphical Models
+      - Computer Vision
+      - Algorithms, Python, Java, C++
+
+  # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   # - area: BSc Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -93,20 +98,20 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Led initiatives in Large Language Models (LLMs), such as Llama 3 & Llama 3.1, and transformer reinforcement learning, driving forward innovations in machine learning.
+      - Innovated and implemented multiple groundbreaking techniques, establishing a new framework that markedly improved the reasoning accuracy of LLMs.
+      - Filed a patent and prepared a scholarly paper for submission, reflecting pioneering contributions to the field of LLMs.
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
