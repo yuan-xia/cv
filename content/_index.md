@@ -40,8 +40,8 @@ sections:
         I develop and incorporate advanced Generative Model(LLMs) in the logic reasoning, property learning, motion event summarization for complex intelligent systems. These techniques further aid the system monitoring and anomaly detection process. 
         
         Please reach out to collaborate 😃
-        
-        Our student group now has new positions to undergraduate and graduate students. 
+
+        Our student group now has new positions to undergraduate and graduate students! Feel free to reach out!
     design:
       columns: '1'
   - block: collection
