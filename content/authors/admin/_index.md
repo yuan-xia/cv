@@ -58,7 +58,7 @@ education:
     date_end: 2025-12-15
     summary: |
       GPA: 3.95/4.0
-      Thesis on GenAI in System. Supervised by [Prof Jyotirmoy Deshmukh](https://jdeshmukh.github.io/).
+      Thesis on GenAI in System. Supervised by Prof Jyotirmoy Deshmukh (https://jdeshmukh.github.io/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -120,13 +120,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Pytorch
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Large Language Models
         description: ''
         percent: 40
         icon: circle-stack
@@ -134,14 +134,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travel
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+      - name: Writing
         description: ''
-        percent: 100
-        icon: cat
+        percent: 80
+        icon: pen
       - name: Photography
         description: ''
         percent: 80
