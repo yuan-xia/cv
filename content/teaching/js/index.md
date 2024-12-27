@@ -1,7 +1,7 @@
 ---
 title: Teaching Assistant at USC
 summary: Teaching All Essential Algorithms in CS
-date: 2024-11-01
+date: 2025-01-13
 type: docs
 math: false
 tags:

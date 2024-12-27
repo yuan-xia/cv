@@ -1,11 +1,11 @@
 ---
-title: External Advisor
-summary: Carrer and educational advice for students
-date: 2022-09-01
+title: Tutor at UCI
+summary: Academic tutor
+date: 2018-01-01
 type: docs
 math: false
 tags:
-  - Advisor
+  - Tutor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
