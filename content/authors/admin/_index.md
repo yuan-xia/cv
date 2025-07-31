@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 5th Year Ph.D. Student & Machine Learning Engineer & Researcher
+role: 5th Year Ph.D. Student & Applied Scientist & Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Large Language Models
-  - Multimodal AI
-  - Software Engineering
+  - Multimodality AI
+  - Distributed Systems and Software Engineering
 
 education:
   - area: Ph.D. Computer Science
@@ -189,4 +189,6 @@ awards:
 
 ## About Me
 
-Yuan Xia is currently pursuing a Ph.D. in Computer Science at the University of Southern California(USC). She specializes in areas of large language models (LLMs), multimodel AI, autonomous driving, distributed systems and software engineering. She leads a student group at CPS-VIDA Lab, which develops LLMs on perception system monitoring, driving event detection and program syntheis. She interned at Bell Labs for machine learning researching, focusing on LLMs logical reasoning. 
+Yuan Xia is currently pursuing a Ph.D. in Computer Science at the University of Southern California(USC). She specializes in areas of large language models (LLMs), multimodel AI, autonomous driving, distributed systems and software engineering. She leads a student group at CPS-VIDA Lab, which develops LLMs on perception system monitoring, driving event detection and program syntheis. She worked at Microsoft for building up multimodality LLM agentic workflow. She also worked at Bell Labs for machine learning researching, focusing on improving LLM logical reasoning. 
+
+
