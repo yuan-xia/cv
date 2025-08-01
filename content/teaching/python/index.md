@@ -5,7 +5,7 @@ date: 2018-01-01
 type: docs
 math: false
 tags:
-  - Tutor
+  - Programming
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
