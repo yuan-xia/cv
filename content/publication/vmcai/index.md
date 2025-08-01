@@ -34,7 +34,7 @@ tags:
   - Distributed Systems
   - Runtime Monitoring
 
-featured: false                        # switch to true to surface in “Featured Publications”
+featured: true                        # switch to true to surface in “Featured Publications”
 
 # External links (add real URLs when available)
 url_pdf: ""

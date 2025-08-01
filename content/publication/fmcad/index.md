@@ -35,7 +35,7 @@ tags:
   - Distributed Systems
   - Large Language Models
 
-featured: false   
+featured: true   
 
 # Custom links (uncomment lines below)
 # links:
