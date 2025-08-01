@@ -1,76 +1,67 @@
 ---
-title: "A comprehensive study of autonomous vehicle bugs"
+title: "Superflows: A New Tool for Forensic Network Flow Analysis"
+
 authors:
-- Joshua Garcia
-- Yang Feng
-- Junjie Shen
-- Sumaya Almanee
-- Yuan Xia
-- Qi Alfred Chen
-date: "2020-10-01T00:00:00Z"
-doi: ""
+  - Michael Collins
+  - Jyotirmoy V. Deshmukh
+  - Dristi Dinesh
+  - Mukund Raghothaman
+  - Srivatsan Ravi
+  - Yuan Xia
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-01T00:00:00Z"
+author_notes: []
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+date: "2024-03-02T00:00:00Z"
+publishDate: "2024-03-02T00:00:00Z"
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+# CSL publication type
+publication_types: ["article-journal"]
 
-abstract: Self-driving cars, or Autonomous Vehicles (AVs), are increasingly becoming an integral part of our daily life. About 50 corporations are actively working on AVs, including large companies such as Google, Ford, and Intel. Some AVs are already operating on public roads, with at least one unfortunate fatality recently on record. As a result, understanding bugs in AVs is critical for ensuring their security, safety, robustness, and correctness. While previous studies have focused on a variety of domains (e.g., numerical software; machine learning; and error-handling, concurrency, and performance bugs) to investigate bug characteristics, AVs have not been studied in a similar manner. Recently, two software systems for AVs, Baidu Apollo and Autoware, have emerged as frontrunners in the open-source community and have been used by large companies and governments (e.g., Lincoln, Volvo, Ford, Intel, Hitachi, LG, and the US Department of Transportation). From these two leading AV software systems, this paper describes our investigation of 16,851 commits and 499 AV bugs and introduces our classification of those bugs into 13 root causes, 20 bug symptoms, and 18 categories of software components those bugs often affect. We identify 16 major findings from our study and draw broader lessons from them to guide the research community towards future directions in software bug detection, localization, and repair.
+publication: "arXiv preprint arXiv:2403.01314"
+publication_short: "arXiv:2403.01314"
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: |
+  Network security analysts collect information ranging from coarse‐grained
+  traffic summaries to fine‐grained packet contents, validating those data
+  against expected patterns and known indicators of compromise.  The volume of
+  modern network traffic, however, vastly exceeds analysts’ capacity for
+  effective forensic inspection.  Motivated by the way packets are grouped
+  into flows, we introduce **superflows**—an analyst-defined aggregation of
+  one or more flows that share a common hypothesis about traffic behavior.
+  We formalize the superflow construct, present practical representations and
+  construction rules, and demonstrate through a case study how superflows can
+  dramatically reduce the data that must be examined, thereby increasing
+  Events Per Analyst Hour (EPAH).
 
 tags:
-- Autonomous Driving
+  - Network Security
+  - Forensic Analysis
+  - Network Flows
 
-featured: true
+featured: false
 
-links:
-- name: Custom Link
-  url: https://dl.acm.org/doi/abs/10.1145/3377811.3380397
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3377811.3380397
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+doi: ""                                # arXiv preprints typically lack a DOI
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# External links
+url_pdf: "https://arxiv.org/pdf/2403.01314"
+url_code: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Click the _Cite_ button above to import the BibTeX entry.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+_Add any supplementary notes, figures, or code snippets here if desired._
