@@ -23,8 +23,7 @@ abstract: |
   Boolean-logic proofs.  Given a set of assumptions and a goal, a trained LLM
   produces a proof whose correctness is verified by an automated checker.  To
   overcome the scarcity of real proofs, we devise a randomized procedure for
-  synthesizing valid proofs and introduce **Template Transformation**, a data
- -augmentation technique that bolsters the model’s ability to handle complex
+  synthesizing valid proofs and introduce **Template Transformation**, a data augmentation technique that bolsters the model’s ability to handle complex
   logical expressions.  We propose black-box tests to quantify an LLM’s
   reasoning ability and show that accuracy is high for short proofs but falls
   as proof depth grows.  Notably, template transformation yields accuracy
