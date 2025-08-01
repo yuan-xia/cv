@@ -1,24 +1,24 @@
 ---
-title: Invited Talk
+title: FMCAD Conference Presentation
 
-event: Bell Labs Invited Talk
+event: FMCAD Conference Invited Talk
 # event_url: https://example.org
 
-location: Bell Labs & Online
-address:
-  street: 600 Mountain View
-  city: Murray Hill
-  region: NJ
-  postcode: '07974'
-  country: United States
+location: Menlo Park, California
+# address:
+#   street: 600 Mountain View
+#   city: Murray Hill
+#   region: NJ
+#   postcode: '07974'
+#   country: United States
 
-summary: An invited talk at Bell Labs.
-abstract: 'Large Language Models in Reasoning'
+summary: Guiding Likely Invariant Synthesis on Distributed Systems with Large Language Models
+abstract: 'Guiding Likely Invariant Synthesis on Distributed Systems with Large Language Models.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-10-01T13:00:00Z'
-date_end: '2025-10-01T15:00:00Z'
+date: '2025-10-02T13:00:00Z'
+date_end: '2025-10-02T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
