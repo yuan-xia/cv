@@ -1,5 +1,5 @@
 ---
-title: Tutor at UCI
+title: Teaching Assistant at UCI
 summary: Academic tutor
 date: 2018-01-01
 type: docs

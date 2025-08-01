@@ -90,7 +90,18 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Machine Learning Engineer & Researcher
+  - position: Applied Scientist Intern
+    company_name: Microsoft
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-06-02
+    date_end: 2025-08-22
+    summary: |
+      Responsibilities include:
+      - Multimodality LLM Agentic Workflow
+      - Fine-tuning LLM
+      - Build up Data Pipeline
+  - position: LLM Research Intern
     company_name: Bell Labs, Nokia
     company_url: ''
     company_logo: ''
@@ -101,28 +112,18 @@ work:
       - Led initiatives in Large Language Models (LLMs), such as Llama 3 & Llama 3.1, and transformer reinforcement learning, driving forward innovations in machine learning.
       - Innovated and implemented multiple groundbreaking techniques, establishing a new framework that markedly improved the reasoning accuracy of LLMs.
       - Filed a patent and prepared a scholarly paper for submission, reflecting pioneering contributions to the field of LLMs.
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Multimodality LLM Training
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Pytorch
+      - name: Multi-plaforms Connection
         description: ''
         percent: 100
         icon: code-bracket
@@ -160,6 +161,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: CREDIF (Capital One Fellowship)
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2025-06-15'
+    awarder: Capital One
+  - title: Amazon Research Award
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2022-06-15'
+    awarder: Amazon
   - title: USC Fellowship Award
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2020-08-15'
@@ -169,7 +178,7 @@ awards:
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: I-Corps NSF Grant
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2025-02-01'
+    date: '2025-08-01'
     awarder: NSF
     # icon: edx
 #     summary: |
