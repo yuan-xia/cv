@@ -34,7 +34,7 @@ tags:
   - Surrogate Models
   - Conformal Inference
 
-featured: false                        # set to true if you want it in “Featured Publications”
+featured: true                        # set to true if you want it in “Featured Publications”
 
 # External links (fill in when available)
 url_pdf: ""
