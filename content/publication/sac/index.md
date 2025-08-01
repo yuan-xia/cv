@@ -61,4 +61,4 @@ slides: ""
 Click the _Cite_ button above to import the BibTeX entry.
 {{% /callout %}}
 
-_Add full text, supplementary notes, or rich content here (code, math, images, etc.)._
+<!-- _Add full text, supplementary notes, or rich content here (code, math, images, etc.)._ -->

@@ -64,4 +64,4 @@ slides: ""
 Click the _Cite_ button above to import the BibTeX entry.
 {{% /callout %}}
 
-_Add any supplementary notes, figures, or code snippets here if desired._
+<!-- _Add any supplementary notes, figures, or code snippets here if desired._ -->

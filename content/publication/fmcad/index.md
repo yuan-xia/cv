@@ -66,4 +66,4 @@ slides: ""
 Click the _Cite_ button above to import the BibTeX entry once published.
 {{% /callout %}}
 
-_Add full text, supplementary notes, or rich content here after publication._
+<!-- _Add full text, supplementary notes, or rich content here after publication._ -->
