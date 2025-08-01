@@ -1,5 +1,5 @@
 ---
-title: 'Data-Driven Template-Free Invariant Generation'
+title: 'Guiding Likely Invariant Synthesis on Distributed Systems with Large Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
